@@ -2,3 +2,6 @@ esse arquivo contém comandos secundários de git
 
 -Primeiro Comando
 - Segundo Comando
+
+#Comandos mais genéricos
+- comandos estranhos
