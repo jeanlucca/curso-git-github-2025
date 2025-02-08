@@ -1,1 +1,2 @@
-Caraca que doidera esse curso. Tá bem legal!!!
+<<<<<<< HEAD
+Caraca que doidera esse curso! Tá bem legal!!!
