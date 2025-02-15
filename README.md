@@ -62,7 +62,7 @@ Pessoas participantes:
 
 Igor Dammous
 Infoslack
-Jean Lucca
+Jean Lucca de Freitas Fontenele
 Leo Medeiros
 Mateus Dantas
 Tales
